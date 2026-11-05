@@ -1,0 +1,36 @@
+{
+  "todos": [
+    {
+      "id": "td_00c1f665",
+      "content": "1 写 _merge_candidates23.py：规则预归一 + 向量聚类 + LLM 审簇，产出候选表与预估效果",
+      "status": "in_progress",
+      "priority": "medium"
+    },
+    {
+      "id": "td_be287999",
+      "content": "2 抽查候选表质量，交专家审",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_cc14cc8f",
+      "content": "3 写 _apply_merge23.py，生成 final_v2 CSV + 改动清单 + 别名表",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_4a90226e",
+      "content": "4 备份、干跑重建、用户确认后 --apply",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "td_b237faff",
+      "content": "5 验证 + 页面抽查",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+  "updated_at": 1793859808.0994244,
+  "version": 1
+}
